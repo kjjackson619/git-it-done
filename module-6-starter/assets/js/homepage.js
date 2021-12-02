@@ -106,6 +106,6 @@ var getFeaturedRepos = function (language) {
 
 
 
-
+//button listener
 userFormEl.addEventListener("submit", formSubmitHandler);
 languageButtonsEl.addEventListener("click", buttonClickHandler);

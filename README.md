@@ -2,7 +2,7 @@
 
 
 ## Purpose
-Website made to filter repositories and issues.
+Website made to search and filter Github repositories and issues. Can also be searched by programming language.
 
 
 ## Built With
